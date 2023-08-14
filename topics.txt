@@ -1,0 +1,4 @@
+Topics: 
+1. datatypes
+2. Union
+3. Array
