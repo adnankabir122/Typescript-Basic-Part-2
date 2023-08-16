@@ -20,7 +20,7 @@ var RequestType;
 (function (RequestType) {
     RequestType[RequestType["ReadData"] = 1] = "ReadData";
     RequestType[RequestType["GetData"] = 2] = "GetData";
-    RequestType[RequestType["DeleteData"] = 3] = "DeleteData";
+    RequestType[RequestType["DeleteData"] = 3] = "DeleteData"; //3
 })(RequestType || (RequestType = {}));
 // string enum 
 var RequestType2;

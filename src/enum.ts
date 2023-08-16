@@ -12,14 +12,12 @@ enum Size{
     small = 1,
     medium = 2,
     large = 3
-}
-
-
+} 
 // numeric enum 
 enum RequestType{
     ReadData = 1,
-    GetData,
-    DeleteData
+    GetData, //2
+    DeleteData //3
 } 
 // string enum 
 enum RequestType2{

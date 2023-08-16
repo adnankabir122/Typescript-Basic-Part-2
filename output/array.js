@@ -1,7 +1,7 @@
 "use strict";
 let numbers = [120, 32, 46]; //number type array
-let names;
-let ages;
+let names; //only string rakha jabe
+let ages; //only number rakha jabe 
 // avabeo lekha jay 
 // let names: Array<string>
 // multi type array 

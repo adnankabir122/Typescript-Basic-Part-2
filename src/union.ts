@@ -6,4 +6,5 @@ console.log(userDetails)
 function display(id:string | number){
     console.log(id);
 }
+// calling the function 
 display(15)

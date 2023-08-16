@@ -16,3 +16,6 @@ console.log(`UserName: ${userName} Id: ${userId} isActive: ${isActive}`)
 console.log(userName.split(" "))
 console.log(userName.toUpperCase())
 console.log(userName.toLowerCase())
+
+// let n:null = null
+// let u:undefined = undefined
