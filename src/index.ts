@@ -1,7 +1,6 @@
 // variable 
-// string type 
-let playerName = "Sakib";
-let age = 35;
+let playerName = "Sakib"; // string type 
+let age = 35; // number type 
 console.log(playerName);
 // upore jehetu playername - stringType chilo tai number assign kora jabe na 
 // playerName = 40; x
@@ -16,7 +15,7 @@ console.log(multiply(3,4));
 
 //array
 let fruits = ['apple','mango']
-// fruits.push(34) #number deya jabe na
+// fruits.push(34) #string type - number deya jabe na
 console.log(fruits)
 
 //object 
@@ -25,5 +24,6 @@ let person ={
     age : 35,
     isCaptain : true
 }
-// person.age = '35' #string deya jabe na
+// object ar vitoreo properties gulo fixed type 
+// person.age = '35' x #string deya jabe na
 

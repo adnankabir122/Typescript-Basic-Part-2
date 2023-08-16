@@ -2,6 +2,7 @@
 let userId:number;
 let userName: string;
 let isActive:boolean;
+let BikeUser:object;
 
 userId = 101; 
 //userId = '101' #wrong 

@@ -3,6 +3,7 @@
 let userId;
 let userName;
 let isActive;
+let BikeUser;
 userId = 101;
 //userId = '101' #wrong 
 userName = "Anisul islam";
