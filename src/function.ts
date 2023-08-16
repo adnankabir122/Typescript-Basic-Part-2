@@ -10,3 +10,4 @@ function getDetails(name:string,id:number,adress?:string){
 
 /* ? mark thakle oi parameter na dileo chole  */
 getDetails('Adnan',478)
+
